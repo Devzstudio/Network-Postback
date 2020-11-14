@@ -1,0 +1,38 @@
+{
+    "ClixWall": {
+        "name": "ClixWall",
+        "image": "",
+        "iframe": "<iframe src=\"https://clixwall.com/wall?api=YOUR_API_KEY&user=[USERID]\" width=\"700px\" height=\"800px\" frameborder=\"0\"></iframe>",
+        "ip_restrict": "",
+        "userVar": "u",
+        "payoutVar": "c",
+        "passwordVar": "pwd",
+        "passwordValue": "YOUR_PASSWORD",
+        "statusVar": "s",
+        "creditValue": "1",
+        "reverseValue": "2",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "offer",
+        "revenueVar": "payout"
+    },
+    "AdWall": {
+        "name": "AdWall",
+        "image": "",
+        "iframe": "<iframe src=\"https://adscendmedia.com/adwall/publisher/YOUR_ID/profile/YOUR_ID?subid1=[USERID]\" width=\"700px\" height=\"800px\" frameborder=\"0\"></iframe>",
+        "ip_restrict": "",
+        "userVar": "sub1",
+        "payoutVar": "currency",
+        "passwordVar": "pwd",
+        "passwordValue": "YOUR_PASSWORD",
+        "statusVar": "s",
+        "creditValue": "1",
+        "reverseValue": "2",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "offer",
+        "revenueVar": "payout"
+    }
+}
