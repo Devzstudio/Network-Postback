@@ -12,7 +12,7 @@
         "successResponse": "OK",
         "errorResponse": "Error",
         "offerVar": "offer",
-        "revenueVar": "amount"
+        "revenueVar": "amount",
         "offerId": "id"
     }
 }
