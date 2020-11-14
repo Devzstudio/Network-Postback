@@ -1,0 +1,18 @@
+{
+    "RedFireNetwork": {
+        "name": "RedFireNetwork",
+        "ip_restrict": "",
+        "userVar": "subid", 
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "status",
+        "creditValue": "1",
+        "reverseValue": "-1",
+        "transactionVar": "tid",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "offer",
+        "revenueVar": "amount"
+        "offerId": "id"
+    }
+}
