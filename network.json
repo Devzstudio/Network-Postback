@@ -1,4 +1,38 @@
 {
+    "AdWorkMedia":{
+        "name": "AdWorkMedia",
+        "ip_restrict": "",
+        "userVar": "sid", 
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "status",
+        "creditValue": "1",
+        "reverseValue": "2",
+        "transactionVar": "leadID",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "campaign_name",
+        "revenueVar": "commission",
+        "offerId": "campaign_id",
+        "ip":"ip"                            
+    },
+    "Tune":{
+        "name": "Tune",
+        "ip_restrict": "",
+        "userVar": "aff_sub1", 
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "",
+        "creditValue": "",
+        "reverseValue": "",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "offer_name",
+        "revenueVar": "payout",
+        "offerId": "offer_id",
+        "ip":"ip"                            
+    },
     "RedFireNetwork": {
         "name": "RedFireNetwork",
         "ip_restrict": "",
@@ -13,6 +47,7 @@
         "errorResponse": "Error",
         "offerVar": "offer",
         "revenueVar": "amount",
-        "offerId": "id"
-    }
+        "offerId": "id",
+        "ip":"ip"
+    }    
 }
