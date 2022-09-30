@@ -49,5 +49,22 @@
         "revenueVar": "amount",
         "offerId": "id",
         "ip":"ip"
+    },
+    "Offertoro": {
+        "name": "Offertoro",
+        "ip_restrict": "54.175.173.245",
+        "userVar": "click_id", 
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "",
+        "creditValue": "",
+        "reverseValue": "",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "",
+        "revenueVar": "payout",
+        "offerId": "offer_id",
+        "ip":"ip"
     }    
 }
