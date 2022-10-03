@@ -133,5 +133,39 @@
         "revenueVar": "payout",
         "offerId": "",
         "ip": "ip"
-     }       
+     },
+    "HangMyAds": {
+        "name": "Hangmyads",
+        "ip_restrict": "216.137.182.154, 52.10.12.101",
+        "userVar": "click_id",
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "",
+        "creditValue": "",
+        "reverseValue": "",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "",
+        "offerVar": "offer_id",
+        "revenueVar": "payout",
+        "offerId": "offer_id",
+        "ip": "ip"   
+    },
+    "CPX-Research":{     
+        "name": "CPX-Research",
+        "ip_restrict": "188.40.3.73, 2a01:4f8:d0a:30ff::2,157.90.97.92",
+        "userVar": "click_id",
+        "passwordVar": "",
+        "passwordValue": "",
+        "statusVar": "1",
+        "creditValue": "",
+        "reverseValue": "",
+        "transactionVar": "transaction_id",
+        "successResponse": "OK",
+        "errorResponse": "Error",
+        "offerVar": "",
+        "revenueVar": "payout",
+        "offerId": "",
+        "ip": "ip"       
+    }
 }
